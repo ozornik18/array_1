@@ -63,5 +63,6 @@ public class Main {
         int two = weights[1];
         weights[2] = 3;
         int three = weights[2];
+
     }
 }
